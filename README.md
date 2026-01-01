@@ -43,6 +43,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdMerajulHasan" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=MdMerajulHasan)
 </p>
 
