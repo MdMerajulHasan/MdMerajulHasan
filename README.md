@@ -42,16 +42,6 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMerajulHasan&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMerajulHasan&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdMerajulHasan&hide_border=true" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmerajulhasan&commits_year=2020)
 
 
