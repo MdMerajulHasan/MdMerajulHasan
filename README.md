@@ -42,6 +42,5 @@
 
 ## 📊 GitHub Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmerajulhasan&commits_year=2025)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdMerajulHasan&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
