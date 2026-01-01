@@ -42,6 +42,5 @@
 
 ## 📊 GitHub Activity
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdMerajulHasan&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdMerajulHasan&mode=weekly&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
