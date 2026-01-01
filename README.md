@@ -42,7 +42,5 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=MdMerajulHasan)
-</p>
+<img src="https://streak-stats.demolab.com?user=MdMerajulHasan" alt="GitHub Streak" />
 
