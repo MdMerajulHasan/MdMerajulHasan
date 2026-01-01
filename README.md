@@ -1,16 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.ibb.co.com/spBpKjXq/github-banner.png" />
+</p>
 
-<!--
-**MdMerajulHasan/MdMerajulHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Md Merajul Hasan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  MERN Stack Developer | React • Node.js • Express • MongoDB
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🔹 Full-Stack MERN Developer
+- 🔹 Build scalable and responsive web applications
+- 🔹 Strong focus on clean code and performance
+- 🔹 Open to remote opportunities
+
+---
+
+### 🚀 Current Activities
+🌱 Exploring Next.js
+📘 Exploring TypeScript
+🗄️ Learning and working with MySQL
+
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Firebase, Vercel, Netlify
+
+---
+
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/md-merajul-hasan-developer/
+- 🧑‍💻 GitHub: https://github.com/MdMerajulHasan
+- 📧 Email: merajuljim1971@gmail.com
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmerajulhasan&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmerajulhasan&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdmerajulhasan" />
+</p>
+
