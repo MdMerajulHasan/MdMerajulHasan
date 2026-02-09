@@ -39,7 +39,7 @@
 A full-featured blood donation management platform with role-based access and request tracking. 
 
 **🛠 Tech Stack:**  
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Firebase` · `Tailwind CSS` · `DaisyUI`
+`React` · `Node.js` · `Express.js` · `MongoDB` · `Firebase`
 
 ---
 
@@ -48,7 +48,7 @@ A movie management app with filtering, sorting, and theme support.
 
 
 **🛠 Tech Stack:**  
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Firebase` · `Tailwind CSS` · `DaisyUI`
+`React` · `Node.js` · `Express.js` · `Tailwind CSS` · `DaisyUI
 
 ---
 
